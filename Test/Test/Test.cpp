@@ -8,7 +8,6 @@ int main()
 {
 	boost::variant< int, std::string > u("hello world");
     std::cout << "Hello World!\n";
-	std::cout << "TESTSTSTTSTTST";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
